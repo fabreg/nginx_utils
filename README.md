@@ -19,6 +19,7 @@ Count week-by-week omitting day-by-day
 
 **Sample output**
 
+<pre>
 Monday 16 Mar
    00x - 16 (16 MALFORMED)
    200 - 292730 (292500 GET, 203 HEAD, 13 OPTIONS, 14 POST)
@@ -38,3 +39,4 @@ Monday 16 Mar
    500 - 148075 (1 CONNECT, 148056 GET, 12 HEAD, 6 OPTIONS)
    502 - 100 (100 GET)
 Total - 592634
+</pre>
